@@ -50,7 +50,6 @@ OUTPUT:
 Example 1:
 “Explain the concept of Cloud Computing and list its main types.”
 Answer:
-```
 "**Cloud Computing**
 
 Cloud computing is a technology that allows users to store, manage, and process data using remote servers on the internet instead of using a local computer or personal server. It provides on-demand access to computing resources such as storage, databases, networking, and software. Cloud computing helps organizations reduce hardware costs, improve scalability, and access services from anywhere using the internet.
@@ -65,15 +64,15 @@ Cloud computing is a technology that allows users to store, manage, and process 
 
 3. **Hybrid Cloud**
    Hybrid cloud is a combination of public cloud and private cloud. It allows data and applications to move between both environments, providing flexibility, better security, and optimized performance.
-```
+
 
 Example 2:
 “Write a short paragraph about the importance of Artificial Intelligence in healthcare.”
 Answer:
-```
+
 Artificial Intelligence (AI) plays an important role in healthcare by helping doctors diagnose diseases more accurately and quickly. AI systems can analyze large amounts of medical data such as scans, patient records, and test results to detect patterns that may be difficult for humans to identify. It also helps in predicting diseases, assisting in surgeries, and improving patient care through personalized treatment plans. Overall, AI improves the efficiency of healthcare services and helps in saving more lives.
 
-```
+
 
 2. Tabular Format Prompting
 
@@ -106,7 +105,7 @@ Answer:
 Example 1:
 “Before explaining the concept of Machine Learning, ask three questions that help understand the topic better.”
 Answer:
-```
+
 **1. What is data and how can computers use it to learn patterns?**
 **2. How do computers improve their performance without being explicitly programmed for every task?**
 **3. Why is it important for machines to learn from past experiences or examples?**
@@ -114,18 +113,18 @@ Answer:
 **Explanation:**
 Machine Learning is a branch of Artificial Intelligence that enables computers to learn from data and make decisions or predictions without being explicitly programmed. Instead of following fixed instructions, machine learning algorithms analyze patterns in data and improve their performance over time. It is widely used in applications such as recommendation systems, image recognition, spam filtering, and predictive analytics.
 
-```
+
 
 Example 2:
 “Before describing the benefits of Online Education, ask two questions related to students’ learning experiences.”
 Answer:
-```
+
 **1. How do students manage their study time when learning from home?**
 **2. What challenges do students face while attending classes through the internet?**
 
 **Description:**
 Online education allows students to learn from anywhere using the internet. It provides flexibility in learning schedules and access to a wide range of courses and resources. Students can attend virtual classes, watch recorded lectures, and interact with teachers through online platforms. This method of education also helps in saving travel time and makes learning more accessible to people around the world.
-```
+
 
 4. Missing Word Prompting
 
@@ -133,18 +132,18 @@ Example 1:
 “Artificial Intelligence is the ability of machines to perform tasks that normally require ______ intelligence.”
 
 Answer:
-```
+
 “Artificial Intelligence is the ability of machines to perform tasks that normally require **human** intelligence.”
-```
+
 
 Example 2:
 “Cloud computing allows users to store and access data over the ______ instead of a local computer.”
 
 Answer:
-```
+
 “Cloud computing allows users to store and access data over the **internet** instead of a local computer.”
 
-```
+
 
 RESULT: 
 
