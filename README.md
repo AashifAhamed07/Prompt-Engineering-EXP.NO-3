@@ -49,7 +49,9 @@ OUTPUT:
 
 Example 1:
 “Explain the concept of Cloud Computing and list its main types.”
+
 Answer:
+
 "**Cloud Computing**
 
 Cloud computing is a technology that allows users to store, manage, and process data using remote servers on the internet instead of using a local computer or personal server. It provides on-demand access to computing resources such as storage, databases, networking, and software. Cloud computing helps organizations reduce hardware costs, improve scalability, and access services from anywhere using the internet.
@@ -68,6 +70,7 @@ Cloud computing is a technology that allows users to store, manage, and process 
 
 Example 2:
 “Write a short paragraph about the importance of Artificial Intelligence in healthcare.”
+
 Answer:
 
 Artificial Intelligence (AI) plays an important role in healthcare by helping doctors diagnose diseases more accurately and quickly. AI systems can analyze large amounts of medical data such as scans, patient records, and test results to detect patterns that may be difficult for humans to identify. It also helps in predicting diseases, assisting in surgeries, and improving patient care through personalized treatment plans. Overall, AI improves the efficiency of healthcare services and helps in saving more lives.
@@ -104,6 +107,7 @@ Answer:
 
 Example 1:
 “Before explaining the concept of Machine Learning, ask three questions that help understand the topic better.”
+
 Answer:
 
 **1. What is data and how can computers use it to learn patterns?**
@@ -117,6 +121,7 @@ Machine Learning is a branch of Artificial Intelligence that enables computers t
 
 Example 2:
 “Before describing the benefits of Online Education, ask two questions related to students’ learning experiences.”
+
 Answer:
 
 **1. How do students manage their study time when learning from home?**
@@ -131,6 +136,7 @@ Online education allows students to learn from anywhere using the internet. It p
 Example 1:
 “Artificial Intelligence is the ability of machines to perform tasks that normally require ______ intelligence.”
 
+
 Answer:
 
 “Artificial Intelligence is the ability of machines to perform tasks that normally require **human** intelligence.”
@@ -138,6 +144,7 @@ Answer:
 
 Example 2:
 “Cloud computing allows users to store and access data over the ______ instead of a local computer.”
+
 
 Answer:
 
