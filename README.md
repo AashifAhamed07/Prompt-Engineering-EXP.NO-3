@@ -44,4 +44,39 @@ Missing Word Prompting:
 
 OUTPUT:
 
+
+1. Straightforward Prompts
+
+Example 1:
+“Explain the concept of Cloud Computing and list its main types.”
+
+Example 2:
+“Write a short paragraph about the importance of Artificial Intelligence in healthcare.”
+
+2. Tabular Format Prompting
+
+Example 1:
+“Compare Machine Learning, Deep Learning, and Artificial Intelligence in a table including definition, example, and application.”
+
+Example 2:
+“Create a table showing the differences between Public Cloud, Private Cloud, and Hybrid Cloud with columns for features, advantages, and examples.”
+
+3. Preceding Question Prompting
+
+Example 1:
+“Before explaining the concept of Machine Learning, ask three questions that help understand the topic better.”
+
+Example 2:
+“Before describing the benefits of Online Education, ask two questions related to students’ learning experiences.”
+
+4. Missing Word Prompting
+
+Example 1:
+“Artificial Intelligence is the ability of machines to perform tasks that normally require ______ intelligence.”
+
+Example 2:
+“Cloud computing allows users to store and access data over the ______ instead of a local computer.”
+
 RESULT: 
+
+Thus,the experiment for exploring different type of prompt is completed successfully.
